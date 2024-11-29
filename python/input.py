@@ -1,4 +1,2 @@
-a=int(input("enter the number"))
-b=int(input("enter the number"))
-
-print(a+b)
+name = input('What is your name?\n')    
+print(name)
